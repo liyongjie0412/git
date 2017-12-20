@@ -1,7 +1,5 @@
 <?php 
 echo 1;
-
-
-ÎÒÊÇgit
+echo 2;
 ?>
 dada
